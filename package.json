@@ -1,0 +1,8 @@
+{
+  "name": "EjercicioAjax",
+  "private": true,
+  "dependencies": {
+    "bootstrap3": "^3.3.5",
+    "jquery": "^3.3.1"
+  }
+}
